@@ -53,12 +53,11 @@ plt.legend()
 
 ## Output:
 
-<img width="164" alt="7 3" src="https://user-images.githubusercontent.com/94154679/173923159-4420580e-dad1-4b38-b096-83cbef65c2a2.png">
+<img width="362" alt="7 1" src="https://user-images.githubusercontent.com/94154679/173923171-41f58068-7ca6-407c-8e13-c69aef15a65d.png">
 
 <img width="263" alt="7 2" src="https://user-images.githubusercontent.com/94154679/173923164-0cdb0c79-3855-4e79-8a8f-e11e820e08d3.png">
 
-
-<img width="362" alt="7 1" src="https://user-images.githubusercontent.com/94154679/173923171-41f58068-7ca6-407c-8e13-c69aef15a65d.png">
+<img width="164" alt="7 3" src="https://user-images.githubusercontent.com/94154679/173923159-4420580e-dad1-4b38-b096-83cbef65c2a2.png">
 
 <img width="284" alt="7 4" src="https://user-images.githubusercontent.com/94154679/173923157-e868a223-04ef-4d72-b29d-9eb02d27327b.png">
 
